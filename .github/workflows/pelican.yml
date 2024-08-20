@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
 jobs:
   deploy:
-    uses: "odysseyprogramme/odyssey-website-dev/.github/workflows/github_pages.yml@main"
+    uses: "odysseyprogramme/odyssey-website-dev/.github/workflows/github_pages.yml"
     permissions:
       contents: "read"
       pages: "write"
