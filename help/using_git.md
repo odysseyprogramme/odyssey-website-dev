@@ -1,6 +1,7 @@
 Git bash:
 
 cd (change directory)  
+navigating using file path: https://stackoverflow.com/questions/28423712/php-include-with-before-file-path
 using wildcards when navigating: https://manuals.gfi.com/en/kerio/control/content/server-configuration-kerio-control/wildcards-and-regular-expressions-in-url-1512.html  
 
 
