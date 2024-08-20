@@ -1,5 +1,5 @@
 ---
-Title: Hello World!!! Website is Alive :)
+Title: Odyssey is dead. Long live Odyssey :)))
 date: Tuesday Aug 20, 2024
 author: Odyssey
 category: tech
