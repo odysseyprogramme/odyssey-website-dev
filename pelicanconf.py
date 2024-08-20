@@ -6,7 +6,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Odyssey'
 SITENAME= 'Odyssey'
 SITEURL = ''
-PATH = 'content'
+PATH = 'content/'
 
 TIMEZONE = 'Asia/Singapore'
 
