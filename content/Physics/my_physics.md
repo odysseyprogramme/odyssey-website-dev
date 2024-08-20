@@ -1,10 +1,11 @@
-Title: My super title  
-Date: 2010-12-03 10:20  
-Modified: 2010-12-05 19:30  
-Category: Physics  
-Slug: my-super-post  
-Authors: Odyssey  
-Summary: Test post
+---
+title: PLANCKS Singapore Prelim Results
+date: Wednesday Mar 10, 2021 08:51:03 +08
+author: Odyssey
+slug: plancks_results
+tags: 'physics' 
+category: 'plancks'
+---
 
 ## Hello this is a title
 
