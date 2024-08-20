@@ -3,7 +3,8 @@ Title: Odyssey is dead. Long live Odyssey :)))
 date: Tuesday Aug 20, 2024
 author: Odyssey
 category: tech
----The website: https://odysseyprogramme.github.io/odyssey-website-dev/
+---
+
 The website: https://odysseyprogramme.github.io/odyssey-website-dev/
 
 After much pain, the website is finally up and running, again. This page is for whoever is going to take over the technical challenge of running the website. Please ensure good documentation, an established workflow and good reading materials on how to get started etc.
