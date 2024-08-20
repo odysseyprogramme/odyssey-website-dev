@@ -6,12 +6,21 @@ A few files that you will frequent:
 [css](https://github.com/odysseyprogramme/odyssey-website-dev/blob/d2ca0267793a68e9971163c110ac1ff3eacda132/themes/bricks/static/css/lamboz.css)  
 [template: base.html](https://github.com/odysseyprogramme/odyssey-website-dev/blob/bfb00a9417b4f6bcccc132b14f079c82fe910b13/themes/bricks/templates/base.html)
 
+Important files:  
+pelicanconf.py
+
 # odyssey-website-dev
-The idea: we write our stuff in markdown (easy), then we use Pelican to generate the html files for us. Pelican uses themes to generate the structure of our website. To modify themes slightly, usually change the css file.
+The idea: we write our stuff in Markdown (easy), then we use Pelican to generate the html files for us. Pelican uses themes to generate the structure of our website. To modify themes slightly, usually change the css file.
 
 **DO NOT** edit the html output files. Each page share the same layout and everything. Edit layout in themes (which then changes all files), not each page individually!
 
-### GitHub Workflow:
+## Writing:
+Create a file in "content". Copy the keywords in "format" file. Then go to Actions to run "Workflow".
+
+How to Markdown:  
+https://www.markdownguide.org/basic-syntax/
+
+## GitHub Workflow:
 Background reading to understand the workflow files:  
 https://docs.getpelican.com/en/latest/tips.html  
 https://docs.github.com/en/actions/writing-workflows/choosing-what-your-workflow-does/using-jobs-in-a-workflow  
@@ -21,3 +30,38 @@ https://docs.github.com/en/actions/writing-workflows/choosing-when-your-workflow
 The markdown files are not rendering... WHY??? I checked the workflow output log: no errors, no articles rendered... Apparently GitHub called the command "pelican". We actually need "pelican[markdown]"!
 
 since we're using markdown, we must use the pelican[markdown], hence we had to copy the pelican official Github Pages workflow file into our directory to modify....
+
+
+
+
+___________________________________________________________________________________________
+## Github Pages
+the index.html file is what triggers formation of webpage  
+https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+
+
+## Updating pages
+Not very useful, see the comments:  
+https://gist.github.com/JosefJezek/6053301
+
+Pelican and github pages: create github workflow  
+https://github.com/getpelican/pelican/blob/main/docs/tips.rst
+
+Workflow: "uses:"
+https://stackoverflow.com/questions/62045478/what-is-uses-directive-in-github-actions-used-for
+
+## Background reading
+
+Jekyll vs Pelican  
+https://blog.4dcu.be/programming/2020/11/22/Static-Web-Generators.html
+
+Markdown (everything's written in Markdown + Python!...!!)  
+
+
+Github pages  
+https://docs.github.com/en/pages  
+Quickstart  
+https://docs.github.com/en/pages/quickstart
+
+
+
