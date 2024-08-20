@@ -1,0 +1,30 @@
+{% extends "base.html" %} {% block content_title %}{% endblock %} {% block content %}
+{% if articles %}
+{% for article in articles_page.object_list %}
+<div class="post_container">
+    <div class="post_short_content" >
+            <div id="tag_container">
+                {% include 'taglist.html' %}
+            </div>
+            <h1 class="entry-title">
+                <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>  
+            </h1>
+            {% include 'article_infos.html' %}
+            <h2 id="summary_container">{{ article.summary }}</h2>    
+    </div>
+</div>
+
+{% endfor %}
+
+<div class="paginator_container">{% include 'pagination.html' %}</div>
+
+{% else %}
+<section id="content">
+    <h2>Pages</h2>
+    {% for page in PAGES %}
+    <li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a>
+    </li>
+    {% endfor %}
+</section>
+{% endif %}
+{% endblock content %}
