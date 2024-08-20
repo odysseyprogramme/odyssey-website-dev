@@ -4,8 +4,9 @@ date: Tuesday Aug 20, 2024
 author: Odyssey
 category: tech
 ---The website: https://odysseyprogramme.github.io/odyssey-website-dev/
+The website: https://odysseyprogramme.github.io/odyssey-website-dev/
 
-After much pain, the website is finally up and running, again. This page is for whoever is going to take over the technical challenge of running the website. Please do not repeat the problem the seniours left us: bad documentation, no established workflow, now reading materials on how to get started etc.
+After much pain, the website is finally up and running, again. This page is for whoever is going to take over the technical challenge of running the website. Please ensure good documentation, an established workflow and good reading materials on how to get started etc.
 
 A few files that you will frequent:  
 [css](https://github.com/odysseyprogramme/odysseyprogramme.github.io/blob/43958e403cd9afa2a40c5eb73cfadf37afd4ecef/themes/bricks/static/css/lamboz.css)  
@@ -42,6 +43,5 @@ since we're using markdown, we must use the pelican[markdown], hence we had to c
 ___________________________________________________________________________________________
 
 For more help, go to the [help folder](https://github.com/odysseyprogramme/odysseyprogramme.github.io/tree/main/help)
-
 
 
