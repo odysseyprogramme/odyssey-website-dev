@@ -1,7 +1,7 @@
 The website: https://odysseyprogramme.github.io/odyssey-website-dev/
 
-Frequent files:
-[css](https://github.com/odysseyprogramme/odyssey-website-dev/blob/d2ca0267793a68e9971163c110ac1ff3eacda132/themes/bricks/static/css/lamboz.css)
+Frequent files:  
+[css](https://github.com/odysseyprogramme/odyssey-website-dev/blob/d2ca0267793a68e9971163c110ac1ff3eacda132/themes/bricks/static/css/lamboz.css)  
 [template: base.html](https://github.com/odysseyprogramme/odyssey-website-dev/blob/bfb00a9417b4f6bcccc132b14f079c82fe910b13/themes/bricks/templates/base.html)
 
 # odyssey-website-dev
