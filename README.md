@@ -3,8 +3,8 @@ The website: https://odysseyprogramme.github.io/odyssey-website-dev/
 After much pain, the website is finally up and running, again. This page is for whoever is going to take over the technical challenge of running the website. Please do not repeat the problem the seniours left us: bad documentation, no established workflow, now reading materials on how to get started etc.
 
 A few files that you will frequent:  
-[css](https://github.com/odysseyprogramme/odyssey-website-dev/blob/d2ca0267793a68e9971163c110ac1ff3eacda132/themes/bricks/static/css/lamboz.css)  
-[template: base.html](https://github.com/odysseyprogramme/odyssey-website-dev/blob/bfb00a9417b4f6bcccc132b14f079c82fe910b13/themes/bricks/templates/base.html)
+[css](https://github.com/odysseyprogramme/odysseyprogramme.github.io/blob/43958e403cd9afa2a40c5eb73cfadf37afd4ecef/themes/bricks/static/css/lamboz.css)  
+[template: base.html](https://github.com/odysseyprogramme/odysseyprogramme.github.io/blob/main/themes/bricks/templates/base.html)
 
 Important files:  
 pelicanconf.py
@@ -36,6 +36,6 @@ since we're using markdown, we must use the pelican[markdown], hence we had to c
 
 ___________________________________________________________________________________________
 
-For more help, go to the [help folder](https://github.com/odysseyprogramme/odysseyprogramme.github.io/tree/a2bf49e26948462dcce3286305140914bd470ee4/help)
+For more help, go to the [help folder](https://github.com/odysseyprogramme/odysseyprogramme.github.io/tree/main/help)
 
 
