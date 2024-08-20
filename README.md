@@ -35,33 +35,7 @@ since we're using markdown, we must use the pelican[markdown], hence we had to c
 
 
 ___________________________________________________________________________________________
-## Github Pages
-the index.html file is what triggers formation of webpage  
-https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
 
-
-## Updating pages
-Not very useful, see the comments:  
-https://gist.github.com/JosefJezek/6053301
-
-Pelican and github pages: create github workflow  
-https://github.com/getpelican/pelican/blob/main/docs/tips.rst
-
-Workflow: "uses:"
-https://stackoverflow.com/questions/62045478/what-is-uses-directive-in-github-actions-used-for
-
-## Background reading
-
-Jekyll vs Pelican  
-https://blog.4dcu.be/programming/2020/11/22/Static-Web-Generators.html
-
-Markdown (everything's written in Markdown + Python!...!!)  
-
-
-Github pages  
-https://docs.github.com/en/pages  
-Quickstart  
-https://docs.github.com/en/pages/quickstart
-
+For more help, go to the [help folder](https://github.com/odysseyprogramme/odysseyprogramme.github.io/tree/a2bf49e26948462dcce3286305140914bd470ee4/help)
 
 
