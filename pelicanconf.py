@@ -34,9 +34,9 @@ MENUITEMS = [
     ]
 
 LINKS = (
-        ('SPMS Official Page for the Odyssey Programme', 'https://spms.ntu.edu.sg/Programmes/Undergrads/Odyssey/Pages/Home.aspx'),
+        ('SPMS Official Page for the Odyssey Programme', 'https://www.ntu.edu.sg/spms/admissions/undergrad/odyssey-research'),
         ('Telegram Announcements', 'https://t.me/odysseyprogramme'),
-        ('Instagram Page', 'https://instagram.com/odysseyprogramme'),
+        ('Instagram Page', 'https://instagram.com/spms.odyssey'),
     ('Email us', OBFUSCATED_EMAIL),
 )
 
@@ -45,7 +45,7 @@ LINKS = (
 """
 ('Archival for Talks this semester', '#'),
 ('Ongoing Projects', '#'),
-('SPMS Official Page for the Odyssey Programme', 'https://spms.ntu.edu.sg/Programmes/Undergrads/Odyssey/Pages/Home.aspx'),
+('SPMS Official Page for the Odyssey Programme', 'https://www.ntu.edu.sg/spms/admissions/undergrad/odyssey-research'),
 ('OI', '#'),)
 """
 
