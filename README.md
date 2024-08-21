@@ -3,7 +3,7 @@ The website: https://odysseyprogramme.github.io/odyssey-website-dev/
 After much pain, the website is finally up and running, again. This page is for whoever is going to take over the technical challenge of running the website. Please ensure good documentation, an established workflow and good reading materials on how to get started etc.
 
 A few files that you will frequent:  
-[css](https://github.com/odysseyprogramme/odysseyprogramme.github.io/blob/main/themes/bricks/static/css/lamboz.css)
+[css](https://github.com/odysseyprogramme/odysseyprogramme.github.io/blob/main/themes/bricks/static/css/lamboz.css)  
 [template: base.html](https://github.com/odysseyprogramme/odysseyprogramme.github.io/blob/main/themes/bricks/templates/base.html)
 
 Important files:  
