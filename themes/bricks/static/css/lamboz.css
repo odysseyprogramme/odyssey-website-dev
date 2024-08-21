@@ -53,6 +53,7 @@ H5,H6 { font-size: 1.05em; }
 
 A { 
   text-decoration: none;
+  /* color: #666; */ /*original colour*/
   color: #1f0099;
 }
 
