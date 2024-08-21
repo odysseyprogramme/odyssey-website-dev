@@ -1,6 +1,6 @@
 ## Background
-Webpage design (gh_pages branch)  
-Go to index.html, seach "logo" to get the bearded guy.  
+Webpage design
+Go to template>>index.html, seach "logo" to get the bearded guy.  
 The people behind the logo are from "lego_background". Used in /theme/css/lamboz.css
 
 Try offline in your computer  
@@ -24,7 +24,11 @@ https://stackoverflow.com/questions/14402038/how-to-position-a-container-in-the-
 Changing the link colour    
 https://www.w3schools.com/css/css_link.asp
 
-
 #### making CSS file more readable
 writing comments  
 https://www.w3schools.com/css/css_comments.asp
+
+
+#### some of our social links are dead: changing them
+pelicanconf.py>>LINKS
+
