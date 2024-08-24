@@ -51,4 +51,7 @@ Images
 
 3. Close the file.
 
+
+
+_____________________
 Reproduced from: https://www.markdownguide.org/basic-syntax/
