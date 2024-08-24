@@ -93,7 +93,7 @@ HTML:
 ![tux fails to show up](/content/images/tux.jpg)
 
 <br>
-XHTML  
+XHTML:  
 <img src="{static}/images/tux.jpg" width="100" />
 
 <p> 3. Close your eyes. </p>
