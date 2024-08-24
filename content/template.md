@@ -72,7 +72,7 @@ You can use html too!!! :) :) Yay! (break text!) (Pressing enter will nto introd
 <br>
 <br>
 
-Images (somehow the markdown syntax for this does not render for our site. So use the HTML one.)
+Images: the many ways to import them
 1. Open the file containing the Linux mascot.
 2. Marvel at its beauty.
     HTML:
