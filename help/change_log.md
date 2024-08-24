@@ -35,7 +35,7 @@ pelicanconf.py>>LINKS
 24/8  
 #### added template file in contents
 
-#### discovered how adding images works
+#### discovered how adding images work (and the many ways to fail)
 
 #### here is a way to disable markdown for a small part of the page
 https://stackoverflow.com/questions/701042/disable-markdown-for-a-block
