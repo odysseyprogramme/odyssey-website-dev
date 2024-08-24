@@ -1,9 +1,7 @@
----
 Title: Template for the Website: Isn't this gorgeous?!
 date: 24 Aug 2024
 author: Cheng Cheng
 category: template
----
 
 
 # Heading level 1	
