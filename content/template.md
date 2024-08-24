@@ -1,4 +1,4 @@
-Title: Template for the Website: Isn't this gorgeous?!  
+Title: Template for this Website (and some unexpected difficulties)
 date: 24 Aug 2024  
 author: Cheng Cheng  
 category: template  
