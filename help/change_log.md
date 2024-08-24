@@ -33,7 +33,7 @@ https://www.w3schools.com/css/css_comments.asp
 pelicanconf.py>>LINKS
 
 24/8  
-#### added template file in <<contents>>
+#### added template file in <contents>
 
 #### discovered how adding images works
 
