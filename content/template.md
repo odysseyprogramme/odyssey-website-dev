@@ -76,7 +76,7 @@ Images (somehow the markdown syntax for this does not render for our site. So us
 1. Open the file containing the Linux mascot.
 2. Marvel at its beauty.
 
-    <img src="https://odysseyprogramme.github.io/images/tux.jpg" width="500" >
+    <img src="https://odysseyprogramme.github.io/images/tux.jpg" width="100" >
 
 3. Close the file.
 
