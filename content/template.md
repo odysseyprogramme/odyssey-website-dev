@@ -104,7 +104,7 @@ XHTML:
 
 <br>
 
-
+Works here: becomes code block in website:  
 1. Open the file containing the Linux mascot.
 2. Marvel at its beauty.
 
