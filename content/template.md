@@ -73,30 +73,30 @@ You can use html too!!! :) :) Yay! (break text!) (Pressing enter will nto introd
 <br>
 
 Images: the many ways to import them: successes and failures :(  
->
->
-> <p> 1. Open the file containing the Linux mascot. </p>
->
-> <p> 2. Marvel at its beauty. </p>
->
-> <br>
->
-> HTML:  
-> <img src="https://odysseyprogramme.github.io/images/tux.jpg" width="100" >
-> <br>
-> <img src="/content/images/tux.jpg" width="100"  alt="tux fails to show up">
-> 
-> <br>
-> 
-> Markdown:  
-> ![Tux the mascot](https://odysseyprogramme.github.io/images/tux.jpg)
-> ![tux fails to show up](/content/images/tux.jpg)
->
-> <br>
-> XHTML  
-> <img src="{static}/images/tux.jpg" width="100" />
->
-> <p> 3. Close your eyes. </p>
+
+
+<p> 1. Open the file containing the Linux mascot. </p>
+
+<p> 2. Marvel at its beauty. </p>
+
+<br>
+
+HTML:  
+<img src="https://odysseyprogramme.github.io/images/tux.jpg" width="100" >
+<br>
+<img src="/content/images/tux.jpg" width="100"  alt="tux fails to show up">
+ 
+ <br>
+ 
+ Markdown:  
+![Tux the mascot](https://odysseyprogramme.github.io/images/tux.jpg)
+![tux fails to show up](/content/images/tux.jpg)
+
+<br>
+XHTML  
+<img src="{static}/images/tux.jpg" width="100" />
+
+<p> 3. Close your eyes. </p>
 
 
 _____________________________________________
