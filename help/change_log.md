@@ -32,3 +32,5 @@ https://www.w3schools.com/css/css_comments.asp
 #### some of our social links are dead: changing them
 pelicanconf.py>>LINKS
 
+24/8  
+#### added template file in <<contents>>
