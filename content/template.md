@@ -90,6 +90,7 @@ HTML:
  
  Markdown:  
 ![Tux the mascot](https://odysseyprogramme.github.io/images/tux.jpg)
+
 ![tux fails to show up](/content/images/tux.jpg)
 
 <br>
