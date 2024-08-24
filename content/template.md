@@ -104,7 +104,8 @@ XHTML:
 
 <br>
 
-Works here: becomes code block in website:  
+
+Works on github, yet becomes code block in website. Even the list fails to render... There must be a way...
 1. Open the file containing the Linux mascot.
 2. Marvel at its beauty.
 
