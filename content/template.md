@@ -80,6 +80,7 @@ Images (somehow the markdown syntax for this does not render for our site. So us
     <img src="https://odysseyprogramme.github.io/images/tux.jpg" width="100" >
 
     Markdown:
+   
     ![Tux the mascot](https://odysseyprogramme.github.io/images/tux.jpg)
 
 4. Close the file.
