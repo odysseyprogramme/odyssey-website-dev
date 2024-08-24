@@ -72,9 +72,9 @@ You can use html too!!! :) :) Yay! (break text!) (Pressing enter will nto introd
 <br>
 <br>
 
-Images: the many ways to import them: successes and failures :(
-1. Open the file containing the Linux mascot.
-2. Marvel at its beauty.
+Images: the many ways to import them: successes and failures :(  
+1. Open the file containing the Linux mascot.  
+2. Marvel at its beauty.  
 
     HTML:
    
@@ -90,5 +90,7 @@ Images: the many ways to import them: successes and failures :(
 <img src="{static}/images/tux.jpg" width="100" />
 
 3. Close your eyes.
+
+
 _____________________________________________
 Modified from: https://www.markdownguide.org/basic-syntax/
