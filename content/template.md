@@ -104,5 +104,16 @@ XHTML:
 
 <br>
 
+
+1. Open the file containing the Linux mascot.
+2. Marvel at its beauty.
+
+    ![Tux, the Linux mascot](https://odysseyprogramme.github.io/images/tux.jpg)
+
+3. Close the file.
+
+
+
+
 _____________________________________________
 Modified from: https://www.markdownguide.org/basic-syntax/
