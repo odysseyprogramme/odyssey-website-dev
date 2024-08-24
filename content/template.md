@@ -86,6 +86,6 @@ Images (somehow the markdown syntax for this does not render for our site. So us
 4. Close the file.
 
 <img src="{static}/images/PLANCKS_SgPrelim_2021_Logo_large.png" width="500" />
-
+<img src="{static}/images/tux.jpg" width="500" />
 _____________________
 Modified from: https://www.markdownguide.org/basic-syntax/
