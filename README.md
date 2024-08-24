@@ -22,7 +22,7 @@ How to Markdown:
 https://www.markdownguide.org/basic-syntax/
 
 Reducing picture file size (reduced quality though...)  
-WWndows: open image file using native image software (Photos) >> three-dot menu >> resize image
+Windows: open image file using native image software (Photos) >> three-dot menu >> resize image
 
 ## GitHub Workflow:
 Background reading to understand the workflow files:  
