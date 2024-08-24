@@ -88,12 +88,12 @@ Images: the many ways to import them: successes and failures :(
 > 
 > <br>
 > 
-> Markdown:
+> Markdown:  
 > ![Tux the mascot](https://odysseyprogramme.github.io/images/tux.jpg)
 > ![tux fails to show up](/content/images/tux.jpg)
 >
 > <br>
-> XHTML
+> XHTML  
 > <img src="{static}/images/tux.jpg" width="100" />
 >
 > <p> 3. Close your eyes. </p>
