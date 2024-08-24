@@ -8,7 +8,6 @@ category: template
 Find the source file is here [template.md](https://github.com/odysseyprogramme/odysseyprogramme.github.io/edit/main/content/template.md)
 
 <br>
-<br>
 
 # Heading level 1	
 ## Heading level 2	
