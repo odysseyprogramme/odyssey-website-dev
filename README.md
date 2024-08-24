@@ -16,7 +16,7 @@ The idea: we write our stuff in Markdown (easy), then we use Pelican to generate
 **DO NOT** edit the html output files. Each page share the same layout and everything. Edit layout in themes (which then changes all files), not each page individually!
 
 ## Writing:
-Create a file in folder <<content>>. Copy the keywords in <<format>> file. Then go to Actions to run "Workflow".
+Create a file in folder <content>. Copy the keywords in <format> file. Then go to Actions to run "Workflow".
 
 How to Markdown:  
 https://www.markdownguide.org/basic-syntax/
