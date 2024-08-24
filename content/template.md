@@ -5,7 +5,7 @@ category: template
 
 <br>
 
-Find the source file is here [template.md](https://github.com/odysseyprogramme/odysseyprogramme.github.io/edit/main/content/template.md)
+Find the source file here [template.md](https://github.com/odysseyprogramme/odysseyprogramme.github.io/edit/main/content/template.md)
 
 <br>
 
