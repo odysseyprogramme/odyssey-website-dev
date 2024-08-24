@@ -4,6 +4,9 @@ author: Cheng Cheng
 category: template  
 
 
+<br>
+<br>
+
 # Heading level 1	
 ## Heading level 2	
 ### Heading level 3	
@@ -58,7 +61,7 @@ A*cat*meow
 - Third item
 - Fourth item
 
-You can use htm too!!! :) :) Yay! (break text!)
+You can use htm too!!! :) :) Yay! (break text!) (Pressing enter will nto introduce new lines in MD. You must use '''<br>''')
 <br>
 <br>
 <br>
