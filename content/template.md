@@ -86,10 +86,9 @@ Images: the many ways to import them
 
 ![Tux the mascot](/content/images/tux.jpg)
 
-3. Close the file.
-
 <img src="{static}/images/PLANCKS_SgPrelim_2021_Logo_large.png" width="500" />
 <img src="{static}/images/tux.jpg" width="100" />
 
+3. Close your eyes.
 _____________________________________________
 Modified from: https://www.markdownguide.org/basic-syntax/
