@@ -75,10 +75,14 @@ You can use html too!!! :) :) Yay! (break text!) (Pressing enter will nto introd
 Images (somehow the markdown syntax for this does not render for our site. So use the HTML one.)
 1. Open the file containing the Linux mascot.
 2. Marvel at its beauty.
-
+    HTML:
+   
     <img src="https://odysseyprogramme.github.io/images/tux.jpg" width="100" >
 
-3. Close the file.
+    Markdown:
+    ![Tux the mascot](https://odysseyprogramme.github.io/images/tux.jpg)
+
+4. Close the file.
 
 
 
