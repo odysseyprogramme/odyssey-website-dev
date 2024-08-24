@@ -81,7 +81,7 @@ Images: the many ways to import them: successes and failures :(
 >
 > <br>
 >
-> HTML:
+> HTML:  
 > <img src="https://odysseyprogramme.github.io/images/tux.jpg" width="100" >
 > <br>
 > <img src="/content/images/tux.jpg" width="100"  alt="tux fails to show up">
