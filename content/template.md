@@ -10,25 +10,33 @@ Heading level 1
 Heading level 2
 ---------------
 
+<br>
+
 I just love **bold text**.
 I just love __bold text__.
 Love**is**bold
 
+<br>
+
 Italicized text is the *cat's meow*.
 Italicized text is the _cat's meow_.
 A*cat*meow
+
+<br>
 
 > Blockquote
 > Dorothy followed her through many of the beautiful rooms in her castle.
 >
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
+<br>
 
 > Nested blockquotes
 > Dorothy followed her through many of the beautiful rooms in her castle.
 >
 >> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
+<br>
 
 1. First item
 2. Second item
@@ -37,12 +45,14 @@ A*cat*meow
     2. Indented item
 4. Fourth item
 
+<br>
+
 - First item
 - Second item
 - Third item
 - Fourth item
 
-You can use htm too!!! :) :) Yay!
+You can use htm too!!! :) :) Yay! (break text!)
 <br>
 <br>
 <br>
