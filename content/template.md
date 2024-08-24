@@ -74,7 +74,7 @@ You can use html too!!! :) :) Yay! (break text!) (Pressing enter will nto introd
 
 Images: the many ways to import them
 1. Open the file containing the Linux mascot.
-2. Marvel at its beauty.
+2. Marvel at its beauty.  
     HTML:
    
 <img src="/content/images/tux.jpg" width="100" >
@@ -85,7 +85,7 @@ Images: the many ways to import them
 
 ![Tux the mascot](/content/images/tux.jpg)
 
-4. Close the file.
+3. Close the file.
 
 <img src="{static}/images/PLANCKS_SgPrelim_2021_Logo_large.png" width="500" />
 <img src="{static}/images/tux.jpg" width="100" />
