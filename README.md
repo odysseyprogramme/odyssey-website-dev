@@ -1,5 +1,7 @@
 The website: https://odysseyprogramme.github.io/odyssey-website-dev/
 
+[An introduction to using this GitHub repo to post stuff](https://youtu.be/Kdr73zzNnVU)
+
 After much pain, the website is finally up and running, again. This page is for whoever is going to take over the technical challenge of running the website. Please ensure good documentation, an established workflow and good reading materials on how to get started etc.
 
 A few files that you will frequent:  
