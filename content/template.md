@@ -72,11 +72,11 @@ You can use htm too!!! :) :) Yay! (break text!) (Pressing enter will nto introdu
 <br>
 <br>
 
-Images
+Images (somehow the markdown syntax for this does not render for our site. So use the HTML one.)
 1. Open the file containing the Linux mascot.
 2. Marvel at its beauty.
 
-    ![Tux, the Linux mascot](https://github.com/odysseyprogramme/odysseyprogramme.github.io/blob/main/content/images/tux.jpg)
+    <img src="images/tux.jpg" alt="Tus the Linux Mascot">
 
 3. Close the file.
 
