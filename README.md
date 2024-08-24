@@ -1,4 +1,4 @@
-The website: https://odysseyprogramme.github.io/odyssey-website-dev/
+[The website](https://odysseyprogramme.github.io/odyssey-website-dev/)
 
 [A video introduction to using this GitHub repo to post stuff](https://youtu.be/Kdr73zzNnVU)
 
