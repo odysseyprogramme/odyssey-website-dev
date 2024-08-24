@@ -62,7 +62,7 @@ A*cat*meow
 
 <br>
 
-You can use htm too!!! :) :) Yay! (break text!) (Pressing enter will nto introduce new lines in MD. You must use
+You can use html too!!! :) :) Yay! (break text!) (Pressing enter will nto introduce new lines in MD. You must use
 ````
 <br>
 ````
