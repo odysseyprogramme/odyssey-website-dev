@@ -72,7 +72,7 @@ You can use html too!!! :) :) Yay! (break text!) (Pressing enter will nto introd
 <br>
 <br>
 
-Images: the many ways to import them: successes and failures :(  
+Images: the many ways to import them: successes and failures :(  Compare source file and rendered webpage.
 
 
 <p> 1. Open the file containing the Linux mascot. </p>
@@ -86,7 +86,7 @@ HTML:
 <br>
 <img src="/content/images/tux.jpg" width="100"  alt="tux fails to show up">
  
- <br>
+<br>
  
  Markdown:  
 ![Tux the mascot](https://odysseyprogramme.github.io/images/tux.jpg)
@@ -98,6 +98,6 @@ XHTML:
 
 <p> 3. Close your eyes. </p>
 
-
+<br>
 _____________________________________________
 Modified from: https://www.markdownguide.org/basic-syntax/
