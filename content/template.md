@@ -77,7 +77,7 @@ Images (somehow the markdown syntax for this does not render for our site. So us
 2. Marvel at its beauty.
     HTML:
    
-<img src="/images/tux.jpg" width="100" >
+<img src="/content/images/tux.jpg" width="100" >
 
     Markdown:
    
