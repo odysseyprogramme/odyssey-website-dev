@@ -72,13 +72,14 @@ You can use html too!!! :) :) Yay! (break text!) (Pressing enter will nto introd
 <br>
 <br>
 
-Images: the many ways to import them
+Images: the many ways to import them: successes and failures :(
 1. Open the file containing the Linux mascot.
 2. Marvel at its beauty.
 
     HTML:
    
 <img src="/content/images/tux.jpg" width="100" >
+<img src="https://odysseyprogramme.github.io/images/tux.jpg" width="100" >
 
     Markdown:
    
@@ -86,7 +87,6 @@ Images: the many ways to import them
 
 ![Tux the mascot](/content/images/tux.jpg)
 
-<img src="{static}/images/PLANCKS_SgPrelim_2021_Logo_large.png" width="500" />
 <img src="{static}/images/tux.jpg" width="100" />
 
 3. Close your eyes.
