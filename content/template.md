@@ -76,7 +76,7 @@ Images
 1. Open the file containing the Linux mascot.
 2. Marvel at its beauty.
 
-    ![Tux, the Linux mascot](~/content/images/tux.jpg)
+    ![Tux, the Linux mascot](odysseyprogramme/odysseyprogramme.github.io/content/images/tux.jpg)
 
 3. Close the file.
 
