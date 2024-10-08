@@ -70,7 +70,7 @@ You can use html too!!! :) :) Yay! (break text!) (Pressing enter will nto introd
 <br>
 <br>
 
-Images: the many ways to import them: successes and failures :(  Compare source file and rendered webpage. It's funny that the image might work well here but fails to appear in the website, and vice versa!
+Images: the many ways to import them: successes and failures :(  Compare source file and rendered webpage. It's funny that the image might work well in the MD file but fails to appear in the website, and vice versa!
 
 
 <p> 1. Open the file containing the Linux mascot. </p>
