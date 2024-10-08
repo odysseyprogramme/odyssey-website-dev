@@ -1,13 +1,8 @@
-Title: Template for this Website (and some unexpected difficulties)  
+Title: Beautiful Markdown and Some Unexpected Difficulties
 date: 24 Aug 2024  
 author: Cheng Cheng  
-category: template  
+category: Tech  
 
-<br>
-
-Find the source file here [template.md](https://github.com/odysseyprogramme/odysseyprogramme.github.io/edit/main/content/template.md)
-
-<br>
 
 # Heading level 1	
 ## Heading level 2	
