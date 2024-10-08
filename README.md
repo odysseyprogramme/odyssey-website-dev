@@ -32,14 +32,6 @@ https://docs.getpelican.com/en/latest/tips.html
 https://docs.github.com/en/actions/writing-workflows/choosing-what-your-workflow-does/using-jobs-in-a-workflow  
 https://docs.github.com/en/actions/writing-workflows/choosing-when-your-workflow-runs/triggering-a-workflow  
 
-#### Challenge 1:  
-The markdown files are not rendering... WHY??? I checked the workflow output log: no errors, no articles rendered... Apparently GitHub called the command "pelican". We actually need "pelican[markdown]"!
-
-since we're using markdown, we must use the pelican[markdown], hence we had to copy the pelican official Github Pages workflow file into our directory to modify....
-
-
-
-
 ___________________________________________________________________________________________
 
 For more help, go to the [help folder](https://github.com/odysseyprogramme/odysseyprogramme.github.io/tree/main/help)
