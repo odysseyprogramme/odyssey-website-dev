@@ -12,7 +12,13 @@ a href for local file: relative path (try playing with the thing that imports th
 css file: the lego image path has to be changed. use this dot notation.  
 https://stackoverflow.com/questions/20047364/how-to-give-the-background-image-path-in-css
 
-## How to make changes
+## Changes made
+
+#### created Github Workflow
+The markdown files are not rendering... WHY??? I checked the workflow output log: no errors, no articles rendered... Apparently GitHub called the command "pelican". We actually need "pelican[markdown]"!
+
+since we're using markdown, we must use the pelican[markdown], hence we had to copy the pelican official Github Pages workflow file into our directory to modify....
+
 #### changing position of odyssey logo to not block any heads
 Using a container  
 https://stackoverflow.com/questions/5507415/positioning-a-banner-in-css
