@@ -2,7 +2,7 @@
 
 [A video introduction to using this GitHub repo to post stuff](https://youtu.be/Kdr73zzNnVU)
 
-After much pain, the website is finally up and running, again. This page is for whoever is interested in contributing to the website. Please ensure good documentation, an established workflow and good reading materials on how to get started etc.
+The website is finally up and running, again. Yay! This page is for any NTU student who[ is interested in contributing to the website. Please ensure good documentation, an established workflow and good reading materials on how to get started etc.
 
 A few files that you will frequent:  
 [change_log](https://github.com/odysseyprogramme/odysseyprogramme.github.io/blob/main/help/change_log.md)  
